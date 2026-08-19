@@ -1,9 +1,6 @@
 # Dependencias
 node_modules/
 
-# Carpeta de compilación
-build/
-
 # Archivos temporales
 .DS_Store
 Thumbs.db
@@ -15,5 +12,3 @@ Thumbs.db
 
 vendor/
 
-public/build/
-public/build
